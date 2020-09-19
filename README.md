@@ -1,1 +1,1 @@
-# 30DaysOfCode-Slot-1
+# 30DaysOfCode-Slot-2
